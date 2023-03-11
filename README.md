@@ -1,0 +1,1 @@
+This is an empty template project for a nodejs app
